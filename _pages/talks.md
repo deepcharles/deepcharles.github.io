@@ -7,6 +7,8 @@ author_profile: true
 
 - Introduction to change point detection, with applications to physiological signals. *Data Innovation Lab (DIL), EDF* (Virtual seminar, 2<sup>nd</sup> April 2021)
 
+- Locomotion and AI: quantified analysis of human gait and associated disorders. *Datacraft, Paris* (Workshop) [[event]](https://datacraft.paris/event/ia-et-locomotion-analyse-des-donnees-de-marche-et-de-course/)
+
 - Introduction to change point detection, with applications to physiological signals. *MSCMed, Université Paris-Diderot* (Virtual seminar, 9<sup>th</sup> March 2021)
 
 - Introduction to change point detection, with applications to physiological signals. *Centre Borelli, ENS Paris-Saclay* (Virtual seminar, 2<sup>nd</sup> February 2021)
