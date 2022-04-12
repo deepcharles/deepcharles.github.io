@@ -1,0 +1,9 @@
+{
+    "Code": "c-13",
+    "FallEvent": 810,
+    "FallEventEnd": 870,
+    "FallEventStart": 750,
+    "Length": 23.0,
+    "Setting": "Controlled",
+    "TypeOfFall": "SidewardFromStanding"
+}

@@ -1,0 +1,9 @@
+{
+    "Code": "c-94",
+    "FallEvent": 596,
+    "FallEventEnd": 669,
+    "FallEventStart": 523,
+    "Length": 24.0,
+    "Setting": "Controlled",
+    "TypeOfFall": "BackwardFromStanding"
+}

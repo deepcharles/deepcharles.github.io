@@ -1,0 +1,9 @@
+{
+    "Code": "c-23",
+    "FallEvent": 652,
+    "FallEventEnd": 758,
+    "FallEventStart": 546,
+    "Length": 26.0,
+    "Setting": "Controlled",
+    "TypeOfFall": "BackwardFromStanding"
+}

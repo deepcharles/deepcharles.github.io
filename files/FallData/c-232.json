@@ -1,0 +1,9 @@
+{
+    "Code": "c-232",
+    "FallEvent": 831,
+    "FallEventEnd": 896,
+    "FallEventStart": 767,
+    "Length": 21.0,
+    "Setting": "Controlled",
+    "TypeOfFall": "BackwardFromStanding"
+}

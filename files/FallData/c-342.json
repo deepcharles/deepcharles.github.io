@@ -1,0 +1,9 @@
+{
+    "Code": "c-342",
+    "FallEvent": 265,
+    "FallEventEnd": 323,
+    "FallEventStart": 208,
+    "Length": 16.0,
+    "Setting": "Controlled",
+    "TypeOfFall": "SidewardFromChair"
+}

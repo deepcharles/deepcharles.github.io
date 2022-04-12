@@ -1,0 +1,9 @@
+{
+    "Code": "c-116",
+    "FallEvent": 581,
+    "FallEventEnd": 624,
+    "FallEventStart": 538,
+    "Length": 19.0,
+    "Setting": "Controlled",
+    "TypeOfFall": "VerticallyFromStanding"
+}

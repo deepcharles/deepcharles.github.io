@@ -1,0 +1,9 @@
+{
+    "Code": "c-275",
+    "FallEvent": 186,
+    "FallEventEnd": 235,
+    "FallEventStart": 137,
+    "Length": 17.0,
+    "Setting": "Controlled",
+    "TypeOfFall": "SidewardFromChair"
+}

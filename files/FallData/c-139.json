@@ -1,0 +1,9 @@
+{
+    "Code": "c-139",
+    "FallEvent": 1125,
+    "FallEventEnd": 1175,
+    "FallEventStart": 1076,
+    "Length": 23.0,
+    "Setting": "Controlled",
+    "TypeOfFall": "VerticallyFromStanding"
+}

@@ -1,0 +1,9 @@
+{
+    "Code": "c-256",
+    "FallEvent": 308,
+    "FallEventEnd": 383,
+    "FallEventStart": 234,
+    "Length": 18.0,
+    "Setting": "Controlled",
+    "TypeOfFall": "SidewardFromChair"
+}

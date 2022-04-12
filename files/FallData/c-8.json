@@ -1,0 +1,9 @@
+{
+    "Code": "c-8",
+    "FallEvent": 1325,
+    "FallEventEnd": 1392,
+    "FallEventStart": 1258,
+    "Length": 25.0,
+    "Setting": "Controlled",
+    "TypeOfFall": "SidewardFromChair"
+}

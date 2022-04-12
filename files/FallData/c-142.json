@@ -1,0 +1,9 @@
+{
+    "Code": "c-142",
+    "FallEvent": 611,
+    "FallEventEnd": 674,
+    "FallEventStart": 549,
+    "Length": 21.0,
+    "Setting": "Controlled",
+    "TypeOfFall": "BackwardFromStanding"
+}

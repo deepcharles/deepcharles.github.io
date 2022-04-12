@@ -1,0 +1,9 @@
+{
+    "Code": "c-35",
+    "FallEvent": 593,
+    "FallEventEnd": 648,
+    "FallEventStart": 538,
+    "Length": 20.0,
+    "Setting": "Controlled",
+    "TypeOfFall": "SidewardFromStanding"
+}

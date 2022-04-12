@@ -1,0 +1,9 @@
+{
+    "Code": "c-200",
+    "FallEvent": 1019,
+    "FallEventEnd": 1080,
+    "FallEventStart": 958,
+    "Length": 25.0,
+    "Setting": "Controlled",
+    "TypeOfFall": "VerticallyFromStanding"
+}

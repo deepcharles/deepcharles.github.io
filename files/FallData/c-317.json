@@ -1,0 +1,9 @@
+{
+    "Code": "c-317",
+    "FallEvent": 530,
+    "FallEventEnd": 587,
+    "FallEventStart": 474,
+    "Length": 18.0,
+    "Setting": "Controlled",
+    "TypeOfFall": "SidewardFromStanding"
+}

@@ -1,0 +1,9 @@
+{
+    "Code": "c-394",
+    "FallEvent": 721,
+    "FallEventEnd": 817,
+    "FallEventStart": 625,
+    "Length": 28.0,
+    "Setting": "Controlled",
+    "TypeOfFall": "VerticallyFromStanding"
+}

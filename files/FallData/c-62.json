@@ -1,0 +1,9 @@
+{
+    "Code": "c-62",
+    "FallEvent": 314,
+    "FallEventEnd": 343,
+    "FallEventStart": 285,
+    "Length": 12.0,
+    "Setting": "Controlled",
+    "TypeOfFall": "SidewardFromStanding"
+}

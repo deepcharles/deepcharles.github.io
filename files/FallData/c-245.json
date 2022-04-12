@@ -1,0 +1,9 @@
+{
+    "Code": "c-245",
+    "FallEvent": 370,
+    "FallEventEnd": 438,
+    "FallEventStart": 302,
+    "Length": 14.0,
+    "Setting": "Controlled",
+    "TypeOfFall": "SidewardFromStanding"
+}
