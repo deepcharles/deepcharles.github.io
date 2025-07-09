@@ -1,9 +1,0 @@
-{
-    "Code": "c-329",
-    "FallEvent": 353,
-    "FallEventEnd": 405,
-    "FallEventStart": 302,
-    "Length": 18.0,
-    "Setting": "Controlled",
-    "TypeOfFall": "BackwardFromStanding"
-}

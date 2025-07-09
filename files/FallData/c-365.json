@@ -1,9 +1,0 @@
-{
-    "Code": "c-365",
-    "FallEvent": 482,
-    "FallEventEnd": 532,
-    "FallEventStart": 433,
-    "Length": 18.0,
-    "Setting": "Controlled",
-    "TypeOfFall": "SidewardFromChair"
-}

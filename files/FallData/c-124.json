@@ -1,9 +1,0 @@
-{
-    "Code": "c-124",
-    "FallEvent": 507,
-    "FallEventEnd": 568,
-    "FallEventStart": 447,
-    "Length": 18.0,
-    "Setting": "Controlled",
-    "TypeOfFall": "SidewardFromStanding"
-}

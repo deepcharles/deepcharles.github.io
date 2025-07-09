@@ -1,9 +1,0 @@
-{
-    "Code": "c-115",
-    "FallEvent": 680,
-    "FallEventEnd": 760,
-    "FallEventStart": 600,
-    "Length": 20.0,
-    "Setting": "Controlled",
-    "TypeOfFall": "BackwardFromStanding"
-}

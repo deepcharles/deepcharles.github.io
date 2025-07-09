@@ -1,9 +1,0 @@
-{
-    "Code": "c-45",
-    "FallEvent": 401,
-    "FallEventEnd": 476,
-    "FallEventStart": 326,
-    "Length": 16.0,
-    "Setting": "Controlled",
-    "TypeOfFall": "VerticallyFromStanding"
-}

@@ -1,9 +1,0 @@
-{
-    "Code": "c-86",
-    "FallEvent": 380,
-    "FallEventEnd": 443,
-    "FallEventStart": 318,
-    "Length": 14.0,
-    "Setting": "Controlled",
-    "TypeOfFall": "ForwardFromStanding"
-}

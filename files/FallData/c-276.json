@@ -1,9 +1,0 @@
-{
-    "Code": "c-276",
-    "FallEvent": 422,
-    "FallEventEnd": 498,
-    "FallEventStart": 346,
-    "Length": 18.0,
-    "Setting": "Controlled",
-    "TypeOfFall": "ForwardFromStanding"
-}

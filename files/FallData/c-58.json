@@ -1,9 +1,0 @@
-{
-    "Code": "c-58",
-    "FallEvent": 625,
-    "FallEventEnd": 690,
-    "FallEventStart": 560,
-    "Length": 19.0,
-    "Setting": "Controlled",
-    "TypeOfFall": "SidewardFromStanding"
-}

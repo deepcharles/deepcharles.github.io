@@ -1,9 +1,0 @@
-{
-    "Code": "c-298",
-    "FallEvent": 415,
-    "FallEventEnd": 463,
-    "FallEventStart": 368,
-    "Length": 17.0,
-    "Setting": "Controlled",
-    "TypeOfFall": "BackwardFromChair"
-}

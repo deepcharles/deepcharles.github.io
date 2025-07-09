@@ -1,9 +1,0 @@
-{
-    "Code": "c-132",
-    "FallEvent": 388,
-    "FallEventEnd": 427,
-    "FallEventStart": 350,
-    "Length": 13.0,
-    "Setting": "Controlled",
-    "TypeOfFall": "SidewardFromChair"
-}

@@ -1,9 +1,0 @@
-{
-    "Code": "c-158",
-    "FallEvent": 548,
-    "FallEventEnd": 711,
-    "FallEventStart": 385,
-    "Length": 19.0,
-    "Setting": "Controlled",
-    "TypeOfFall": "ForwardFromStanding"
-}

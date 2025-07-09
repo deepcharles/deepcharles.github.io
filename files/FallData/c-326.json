@@ -1,9 +1,0 @@
-{
-    "Code": "c-326",
-    "FallEvent": 553,
-    "FallEventEnd": 595,
-    "FallEventStart": 511,
-    "Length": 18.0,
-    "Setting": "Controlled",
-    "TypeOfFall": "SidewardFromStanding"
-}

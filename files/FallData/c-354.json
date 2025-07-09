@@ -1,9 +1,0 @@
-{
-    "Code": "c-354",
-    "FallEvent": 1090,
-    "FallEventEnd": 1203,
-    "FallEventStart": 977,
-    "Length": 36.0,
-    "Setting": "Controlled",
-    "TypeOfFall": "BackwardFromChair"
-}

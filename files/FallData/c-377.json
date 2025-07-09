@@ -1,9 +1,0 @@
-{
-    "Code": "c-377",
-    "FallEvent": 1122,
-    "FallEventEnd": 1171,
-    "FallEventStart": 1073,
-    "Length": 29.0,
-    "Setting": "Controlled",
-    "TypeOfFall": "VerticallyFromStanding"
-}

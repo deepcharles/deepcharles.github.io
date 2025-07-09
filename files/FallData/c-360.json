@@ -1,9 +1,0 @@
-{
-    "Code": "c-360",
-    "FallEvent": 306,
-    "FallEventEnd": 365,
-    "FallEventStart": 247,
-    "Length": 14.0,
-    "Setting": "Controlled",
-    "TypeOfFall": "ForwardFromStanding"
-}

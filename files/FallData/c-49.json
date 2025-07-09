@@ -1,9 +1,0 @@
-{
-    "Code": "c-49",
-    "FallEvent": 456,
-    "FallEventEnd": 510,
-    "FallEventStart": 402,
-    "Length": 18.0,
-    "Setting": "Controlled",
-    "TypeOfFall": "ForwardFromStanding"
-}

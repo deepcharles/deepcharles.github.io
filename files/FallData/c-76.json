@@ -1,9 +1,0 @@
-{
-    "Code": "c-76",
-    "FallEvent": 447,
-    "FallEventEnd": 526,
-    "FallEventStart": 369,
-    "Length": 15.0,
-    "Setting": "Controlled",
-    "TypeOfFall": "BackwardFromStanding"
-}

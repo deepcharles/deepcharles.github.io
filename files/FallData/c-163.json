@@ -1,9 +1,0 @@
-{
-    "Code": "c-163",
-    "FallEvent": 459,
-    "FallEventEnd": 517,
-    "FallEventStart": 402,
-    "Length": 18.0,
-    "Setting": "Controlled",
-    "TypeOfFall": "ForwardFromStanding"
-}

@@ -1,9 +1,0 @@
-{
-    "Code": "c-71",
-    "FallEvent": 1002,
-    "FallEventEnd": 1061,
-    "FallEventStart": 944,
-    "Length": 24.0,
-    "Setting": "Controlled",
-    "TypeOfFall": "ForwardFromStanding"
-}

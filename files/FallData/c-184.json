@@ -1,9 +1,0 @@
-{
-    "Code": "c-184",
-    "FallEvent": 435,
-    "FallEventEnd": 480,
-    "FallEventStart": 390,
-    "Length": 18.0,
-    "Setting": "Controlled",
-    "TypeOfFall": "SidewardFromChair"
-}

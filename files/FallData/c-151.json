@@ -1,9 +1,0 @@
-{
-    "Code": "c-151",
-    "FallEvent": 771,
-    "FallEventEnd": 815,
-    "FallEventStart": 727,
-    "Length": 25.0,
-    "Setting": "Controlled",
-    "TypeOfFall": "VerticallyFromStanding"
-}

@@ -1,9 +1,0 @@
-{
-    "Code": "c-409",
-    "FallEvent": 609,
-    "FallEventEnd": 665,
-    "FallEventStart": 553,
-    "Length": 19.0,
-    "Setting": "Controlled",
-    "TypeOfFall": "BackwardFromStanding"
-}

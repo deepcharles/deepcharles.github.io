@@ -1,9 +1,0 @@
-{
-    "Code": "c-405",
-    "FallEvent": 532,
-    "FallEventEnd": 570,
-    "FallEventStart": 495,
-    "Length": 16.0,
-    "Setting": "Controlled",
-    "TypeOfFall": "ForwardFromStanding"
-}

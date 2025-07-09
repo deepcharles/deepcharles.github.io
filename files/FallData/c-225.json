@@ -1,9 +1,0 @@
-{
-    "Code": "c-225",
-    "FallEvent": 342,
-    "FallEventEnd": 391,
-    "FallEventStart": 294,
-    "Length": 20.0,
-    "Setting": "Controlled",
-    "TypeOfFall": "ForwardFromStanding"
-}

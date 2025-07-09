@@ -1,9 +1,0 @@
-{
-    "Code": "c-404",
-    "FallEvent": 609,
-    "FallEventEnd": 667,
-    "FallEventStart": 552,
-    "Length": 21.0,
-    "Setting": "Controlled",
-    "TypeOfFall": "BackwardFromStanding"
-}
